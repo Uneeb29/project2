@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@fullstuck/multicall": "^0.0.4",
+    "@grammyjs/conversations": "^1.1.1",
+    "grammy": "^1.15.3",
+    "mongoose": "^7.0.2",
+    "mysql2": "^3.3.5",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.14"
+  }
+}
